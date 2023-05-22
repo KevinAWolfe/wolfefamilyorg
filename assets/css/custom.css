@@ -1,0 +1,27 @@
+.link-video {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+      90deg,
+      rgba(131, 58, 180, 1) 0%,
+      rgba(253, 29, 29, 1) 50%,
+      rgba(252, 176, 69, 1) 100%
+    );
+  }
+
+  .link-plex {
+    background: #e5a00d;
+    color: #282a2d;
+  }
+
+  .link-overseerr {
+    background: #5726ba;
+  }
+
+  .link-tautulli {
+    background: #1f1f1f;
+    color: #fff;
+  }
+
+  .link-tautulli svg {
+    fill: #fff;
+  }
