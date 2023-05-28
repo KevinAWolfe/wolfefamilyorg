@@ -25,3 +25,11 @@
   .link-tautulli svg {
     fill: #fff;
   }
+
+  .link-directus {
+    background: #6644FF;
+  }
+
+  .link-directus svg {
+    fill: #fff;
+  }

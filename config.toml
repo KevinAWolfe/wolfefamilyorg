@@ -19,6 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { plex = { href = "https://app.plex.tv", text = "Plex – Movies, TV, Home Videos"} },
     { overseerr = { href = "https://requests.wolfe.gg", text = "Overseerr – Requests for Plex"} },
     { tautulli = { href = "https://reports.wolfe.gg", text = "Tautulli – Plex Usage Reports"} },
+    { directus = { href = "https://db.wolfe.gg", text = "Directus Database"} },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
